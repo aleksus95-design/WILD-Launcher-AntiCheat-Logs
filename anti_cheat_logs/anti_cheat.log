@@ -68,3 +68,28 @@ Steam ID: 76561198024426882
 Версия лаунчера: 2026.06.06.2030
 Client Id: e11215b2c0e449b2a4ba447d9560af8c
 ------------------------------------------------------------------------
+[2026-06-06 20:49:36] SCUM закрылась неожиданно
+Логин Steam: lol1k84
+Steam ID: 76561198024426882
+Ник Steam: PACI7AKOBKA
+Что пытался сделать: Запустил SCUM, но игра закрылась сразу после старта
+Причина: SCUM закрылась через 20.1 сек. Наиболее вероятный конфликт: NVIDIA Overlay.
+Разрешённый сервер: 109.248.4.18:7002
+Статус: Ранний вылет
+Основной виновник: NVIDIA Overlay
+Источник: nvspcap64.dll
+Уверенность: Высокая
+Обнаруженные оверлеи:
+  - NVIDIA Overlay [NVIDIA Overlay.exe | pid=7236]
+  - Xbox Game Bar [GameBarFTServer.exe | pid=7372]
+  - Discord Overlay [Discord.exe | pid=11804]
+  - Xbox Game Bar [GameBar.exe | pid=24536]
+  - XboxGameBarWidgets.exe [XboxGameBarWidgets.exe | pid=32100]
+Подозрительные модули:
+  - NVIDIA Overlay [nvspcap64.dll | pid=30984]
+  - Steam Overlay [GameOverlayRenderer64.dll | pid=30984]
+Время до вылета: 20.1s
+Сервер: WILD
+Версия лаунчера: 2026.06.06.2040
+Client Id: e11215b2c0e449b2a4ba447d9560af8c
+------------------------------------------------------------------------
