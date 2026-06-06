@@ -9,3 +9,4 @@ Files:
 
 - `anti_cheat.log`
 - `anti_cheat_events.json`
+- `anti_cheat_events.jsonl`

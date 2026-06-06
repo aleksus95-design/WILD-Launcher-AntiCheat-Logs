@@ -6,6 +6,7 @@ The launcher writes events into:
 
 - `anti_cheat_logs/anti_cheat.log`
 - `anti_cheat_logs/anti_cheat_events.json`
+- `anti_cheat_logs/anti_cheat_events.jsonl`
 
 Use this repository URL in the launcher server profile anti-cheat field:
 
